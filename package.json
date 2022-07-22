@@ -1,0 +1,14 @@
+{
+	"name": "eight-queens-puzzle",
+	"version": "0.1.0",
+	"description": "N Queens Puzzle",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"author": "Jacob Palomo",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.1"
+	}
+}
