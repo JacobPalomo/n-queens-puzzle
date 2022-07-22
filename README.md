@@ -6,12 +6,6 @@ Existen soluciones para todos los números reales excepto para **N** = 2 y **N**
 
 ## Cómo se usa
 
-#### Opción 1
-
-Para poder ver como funciona mi trabajo puedes hacerlo [aquí](https://jacobpalomo.github.io/n-queens-puzzle)
-
-#### Opción 2
-
 1. Clonar el repositorio en tu ambiente local de trabajo.
 2. Instalar las librerías con:
 
