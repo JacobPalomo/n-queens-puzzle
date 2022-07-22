@@ -20,3 +20,5 @@ Existen soluciones para todos los números reales excepto para **N** = 2 y **N**
 ```
 
 4. Acceder a la ruta que sale en consola, puedes hacerlo copiandola y pegandola en el navegador o haciendo `ctrl + click` en el enlace de la consola.
+
+5. Para cerrar el servidor debes presionar `ctrl + c`.
