@@ -4,6 +4,9 @@ El rompecabezas de las **N** reinas es el problema de colocar **N** reinas de aj
 
 Existen soluciones para todos los números reales excepto para **N** = 2 y **N** = 3.
 
+## Requerimientos
+Necesitas tener instalado Node Js en tu computadora. Puedes instalarlo en su [página oficial](https://nodejs.org/).
+
 ## Cómo se usa
 
 1. Clonar el repositorio en tu ambiente local de trabajo.
